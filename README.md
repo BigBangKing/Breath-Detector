@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Breath Detector Web page
+ 
+ Breath Detector is android application that is capable of detecting breathing, counting and keeping track of brathing rate.
+ 
 
-You can use the [editor on GitHub](https://github.com/BigBangKing/Breath-Detector/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BigBangKing/Breath-Detector/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1.#The app provides approximate breath rate, Please do not take breath rate as granted.
+2.#This application is intended to use in a relatively quite environment. 
+3.#This app can detect audio on certain range that is near to breathing range.
+4.#Please put your phones microphone near nostrils where air pressure builds up due to exhaling.
+5.#The accuracy depends on your environment and hardware placement, so please be sure to stay in a relatively quieter place and keep the microphone near your nostrils.
