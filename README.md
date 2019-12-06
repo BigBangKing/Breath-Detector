@@ -1,4 +1,4 @@
-## Welcome to Breath Detector Web page
+## Welcome to Breath Detector Terms Web page
  
  Breath Detector is android application that is capable of detecting breathing, counting and keeping track of brathing rate.
  
@@ -12,3 +12,7 @@
 4.Please put your phones microphone near nostrils where air pressure builds up due to exhaling.
 
 5.The accuracy depends on your environment and hardware placement, so please be sure to stay in a relatively quieter place and keep the microphone near your nostrils.
+
+6.We do not collect any personal information.
+
+Enjoy.
